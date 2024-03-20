@@ -59,6 +59,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fguedes10/fguedes10/output/snake.svg" alt="Snake animation" />
 
-###
